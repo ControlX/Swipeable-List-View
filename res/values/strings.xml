@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SwipeableListView</string>
+
+    <string-array name="array_data">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+        <string name="you_clicked_on_purple_colour">You clicked on Purple colour</string>
+        <string name="you_clicked_on_the_month_">"You clicked on the month: "</string>
+        <string name="you_clicked_on_green_colour">You clicked on Green colour</string>
+        <string name="you_are_swiping_listview_upwards">You are swiping listview upwards</string>
+        <string name="you_are_swiping_listview_downwards">You are swiping listview downwards</string>
+        <string name="you_are_swiping_row_to_left">You are swiping row to left</string>
+        <string name="you_are_swiping_row_to_right">You are swiping row to right</string>
+    
+</resources>
