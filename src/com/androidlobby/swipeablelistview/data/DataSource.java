@@ -1,3 +1,10 @@
+/**
+ * 
+ * @author Abhishek Verma
+ * @web www.androidlobby.com
+ * 
+ * Description: Singleton class managing data retrieval/addition
+ */
 package com.androidlobby.swipeablelistview.data;
 
 import java.util.ArrayList;
