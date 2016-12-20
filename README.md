@@ -1,4 +1,4 @@
-SwipeableListView
+SwipeableListView - Android Project
 =================
 
 Swipeable ListView implementation in Android
